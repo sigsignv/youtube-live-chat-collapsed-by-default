@@ -2,6 +2,12 @@
 
 A browser extension that sets the default visibility of YouTube Live Chat.
 
+## Overview
+
+Choose how YouTube Live Chat starts: follow YouTube's default, start expanded, or start collapsed.
+
+Your choice is saved locally and applied automatically.
+
 ## Development
 
 ### Setup
@@ -12,7 +18,7 @@ $ pnpm install
 
 ### Build
 
-For Chrome / Chromium:
+For Chrome:
 
 ```sh
 $ pnpm run zip
