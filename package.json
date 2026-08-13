@@ -17,7 +17,7 @@
     "postinstall": "wxt prepare"
   },
   "dependencies": {
-    "@wxt-dev/storage": "^1.2.8",
+    "@wxt-dev/storage": "^1.2.9",
     "solid-js": "^1.9.14",
     "valibot": "^1.4.2",
     "vite": "^8.1.5"
