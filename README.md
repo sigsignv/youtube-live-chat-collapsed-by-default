@@ -1,6 +1,6 @@
-# YouTube Live Chat Initial Visibility State
+# YouTube Live Chat Defaults
 
-A browser extension that controls the initial visibility state of YouTube Live Chat.
+A browser extension that sets the default visibility of YouTube Live Chat.
 
 ## Development
 

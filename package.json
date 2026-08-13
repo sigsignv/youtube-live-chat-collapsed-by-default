@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "youtube-live-chat-initial-visibility-state",
-  "description": "Control the initial visibility state of YouTube Live Chat.",
+  "name": "youtube-live-chat-defaults",
+  "description": "Sets the default visibility of YouTube Live Chat.",
   "version": "0.3.0",
   "author": "Sigsign <sig@signote.cc>",
   "license": "Apache-2.0",
