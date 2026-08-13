@@ -2,7 +2,7 @@ import { defineConfig } from "wxt";
 
 export default defineConfig({
   manifest: {
-    name: "YouTube Live Chat Initial Visibility State",
+    name: "YouTube Live Chat Defaults",
     permissions: ["storage"],
     web_accessible_resources: [
       {
